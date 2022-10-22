@@ -1,2 +1,3 @@
-# delorean
-Automated Driver Assistance
+# DeLorean: a Limited Self Driver (LSD)
+
+Automated driving and parking assistance

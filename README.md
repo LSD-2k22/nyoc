@@ -1,3 +1,3 @@
-# DeLorean: a Limited Self Driver (LSD)
+# Nyoc: a Limited Self Driver (LSD)
 
 Automated driving and parking assistance

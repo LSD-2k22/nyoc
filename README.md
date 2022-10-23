@@ -1,3 +1,3 @@
-# Nyoc: a Limited Self Driver (LSD)
+# NyoC: a Limited Self Driver (LSD)
 
 Automated driving and parking assistance
